@@ -8,4 +8,4 @@ For example, see test_Cauchy.m, test_fLasso_group.m and test_fLasso_realdata.m.
 download the original datasets tested in above paper from UCI data repository 
 and put them into the folder [test_fLasso\Util\genUCIdatafun\UCIdataorg]. 
 Then, run genUCIdata.m. For demonstration purpose, 
-''bodyfat_scale'' is left in the folder [test_fLasso\Util\genUCIdatafun\UCIdataorg].)
+''mpg7'' is left in the folder [test_fLasso\Util\genUCIdatafun\UCIdataorg].)
